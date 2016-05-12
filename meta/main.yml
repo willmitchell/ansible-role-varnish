@@ -2,8 +2,8 @@
 dependencies: []
 
 galaxy_info:
-  author: will mitchell
-  description: Varnish for Linux, a simple fork of geerlingguy's.
+  author: geerlingguy
+  description: Varnish for Linux.
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
   min_ansible_version: 1.8
